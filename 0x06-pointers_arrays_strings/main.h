@@ -3,4 +3,5 @@
 
 int _putchar(char c);
 char *cap_string(char *);
+char *leet(char *);
 #endif
