@@ -1,23 +1,3 @@
-
-Sign up
-em432
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-low_level_programming/0x08-recursion/101-wildcmp.c
-@em432
-em432 my commit
- 1 contributor
-30 lines (27 sloc)  455 Bytes
 #include "main.h"
 
 /**
